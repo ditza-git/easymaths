@@ -1,0 +1,17 @@
+
+
+test
+
+
+
+C:\Users\ditza\OneDrive - Belize Telemedia Ltd\Desktop\University ez\Web technolgies DI\easymaths
+
+
+
+git init
+
+
+
+cd "/c/Users/ditza/OneDrive - Belize Telemedia Ltd/Desktop/University ez/Web technolgies DI/easymaths"
+
+cd "/c/Users/ditza/OneDrive - Belize Telemedia Ltd/Desktop/University ez/Web technolgies DI/easymaths"
