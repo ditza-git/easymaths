@@ -8,8 +8,7 @@ An interactive arithmetic learning game built with vanilla HTML, CSS, and JavaSc
 ---
 
 ## Live Demo
-
-[https://ditza-git.github.io/easymaths-webapp/](https://ditza-git.github.io/easymaths-webapp/)
+[https://ditza-git.github.io/easymaths-webapp/](https://ditza-git.github.io/easymaths/)
 
 ---
 
